@@ -10,5 +10,4 @@ sp-fae-event-service            - shows list of events
 sp-fae-order-service            - connects to inventory service with Feign client and Resilience4j, checks inventory
                                 - sends messages through RabbitMQ to e-mail server
 sp-fae-inventory-service        - checks inventory
-sp-fae-email-service            - gets messages from RabbitMQ, sends e-mails 
-
+sp-fae-email-service            - gets messages from RabbitMQ, sends e-m
